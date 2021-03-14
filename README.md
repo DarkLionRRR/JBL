@@ -2,6 +2,7 @@
 Frontend part of the site
 
 # CHECK LIST
+<pre>
 1. HEADER
   1.1 MENU
     1.1.1 Layout
@@ -49,3 +50,4 @@ Frontend part of the site
   7.1 Layout
   7.2 Adaptive
   7.3 Script for form
+ </pre>
