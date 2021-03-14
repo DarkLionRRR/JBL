@@ -1,4 +1,4 @@
 # JBL
 Frontend part of the site
 
-#CHECK LIST
+# CHECK LIST
